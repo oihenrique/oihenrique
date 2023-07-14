@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/oihenrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oihenrique&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Henrique Gomes](https://img.shields.io/badge/-HENRIQUE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oihenriquegomes/)](https://www.linkedin.com/in/oihenriquegomes/)
+[![Linkedin: Henrique Gomes](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oihenriquegomes/)](https://www.linkedin.com/in/oihenriquegomes/)
 [![Gmail Badge](https://img.shields.io/badge/-contato.henriquegomes@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.henriquegomes@hotmail.com)](mailto:contato.henriquegomes@hotmail.com)
