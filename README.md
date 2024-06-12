@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=oihenrique&color=006bed)
 
 <h3> :man: &nbsp;Sobre mim </h3>
-Olá, me chamo Henrique! Sou formado em Administração, estudante de **Engenharia de Software** e aspirante a músico nos momentos vagos.
+Olá, me chamo Henrique! Sou formado em Administração, estudante de <strong>Engenharia de Software</strong> e aspirante a músico nos momentos vagos.
 <br/>
 Quero facilitar a vida das pessoas por meio dos meus programas e compartilhar os meus conhecimentos, tornando o mundo um lugar melhor e mais eficiente.
 
