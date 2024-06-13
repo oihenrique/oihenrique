@@ -30,7 +30,7 @@ Quero facilitar a vida das pessoas por meio dos meus programas e compartilhar os
 <br/>
 
 ### Principais projetos
-- ![Meu portfólio pessoal](https://henriquegsportfolio.web.app/)
+- [Meu portfólio pessoal](https://henriquegsportfolio.web.app/)
 - ![Uniformix](https://github.com/oihenrique/uniformix) - Sistema de gerenciamento de fardamentos para RH
 - ![Sunset Hotel](https://github.com/oihenrique/Curso_Oracle_ONE/tree/master/Desafios/Challenge%20-%20SunsetHotel) - Sistema de reservas de hotel
 - ![Fórum Musique](https://github.com/oihenrique/Curso_Oracle_ONE/tree/master/Desafios/Challenge%20-%20Forum%20Musique) - API REST para fórum
